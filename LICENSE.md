@@ -1,5 +1,5 @@
-Copyright for portions of Shadow Flat UI are held by Olmo Kramer, 2014 as part of Dark Flat UI.
-All other copyright for Shadow Flat UI are held by Layon Ferreira 2017.
+Original work Copyright (c) 2014 Olmo Kramer
+Modified work Copyright (c) 2017 Layon Ferreira
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
