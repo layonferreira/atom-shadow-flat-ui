@@ -3,7 +3,14 @@
 @import "syntax-variables";
 
 @modified-icon-width: 8px;
-@tab-max-width: 180px;
+@tab-max-width: 25%;
+
+
+.atom-dock-content-wrapper.left {
+  .tab-bar .tab{
+    max-width: none;
+  }
+}
 
 .tab-bar {
   height: @tab-height;
@@ -17,7 +24,7 @@
   }
 
   .tab {
-    max-width: initial;
+    max-width: @tab-max-width;
     height: @tab-height;
     line-height: @tab-height;
     padding: 0 20px 0 15px;
